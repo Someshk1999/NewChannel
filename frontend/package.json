@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://someshk1999.github.io/NewChannel",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
