@@ -4,6 +4,10 @@ module.exports = {
     extend: {
       maxWidth: {
         '6xl': '76rem',
+        '7xl': '80rem',
+      },
+      screens: {
+        'xs': '375px',
       },
     },
   },
